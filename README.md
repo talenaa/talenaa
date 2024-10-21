@@ -22,8 +22,9 @@ Since i was a kid i've always liked technology and cyberpunk things. I started l
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000&color=FF8800'/></a>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talenaa&theme=ayu_mirage)
 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talenaa&theme=ayu_mirage&utcOffset=8)     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talenaa&theme=ayu_mirage)
+ 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talenaa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&card_height=170)](https://git.io/streak-stats)
