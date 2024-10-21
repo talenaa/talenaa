@@ -27,5 +27,5 @@ Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (nat
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talenaa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=300&card_height=180)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talenaa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&card_height=170)](https://git.io/streak-stats)
