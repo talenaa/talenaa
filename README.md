@@ -18,6 +18,7 @@ Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (nat
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=000000&labelColor=FFFFFF&color=1E00FF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=DA7E1A&labelColor=000000&color=050505'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=2249D7&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=020202&labelColor=FFDD00&color=black'/></a>
 
 
 
