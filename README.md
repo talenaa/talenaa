@@ -1,8 +1,9 @@
 
 
 ---
-Hello!, my name is talena, im currently studying programming and developing.
-Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. 
+Hello, my name is talena, im currently studying programming and developing.
+Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian.
+Since i was a kid i've always liked technology and cyberpunk things. I started learning new languages when i was 11 years old. I love videogames and my favorites are horizon zero dawn and life is strange. Im an immigrant and i live in Spain - Andalucía. I also play drums and i love music
 
 
 
@@ -13,17 +14,12 @@ Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (nat
 
 
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=php&logoColor=000000&labelColor=FFFFFF&color=1E00FF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=DA7E1A&labelColor=000000&color=050505'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=2249D7&labelColor=FFFFFF&color=FFFFFF'/></a>
+
+
+
+
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=020202&labelColor=FFDD00&color=black'/></a>
-
-
-
-
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000&color=FF8800'/></a>
 
 
 
