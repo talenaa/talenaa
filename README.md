@@ -6,6 +6,9 @@ Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (nat
 Since i was a kid i've always liked technology and cyberpunk things. I started learning new languages when i was 11 years old. I love videogames and my favorites are horizon zero dawn, resident evil, and life is strange. Im an immigrant and i live in Spain - Andalucía. I also play drums and i love music
 
 
+if you want to contact me, here is my gmail: talenabarbosa7@gmail.com
+
+
 
 
 
