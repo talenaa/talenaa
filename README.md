@@ -23,7 +23,7 @@ if you want to contact me, here is my gmail: talenabarbosa7@gmail.com
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=020202&labelColor=FFDD00&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000&color=FF8800'/></a>
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=E7E709&labelColor=black&color=F4F003'/></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talenaa&theme=ayu_mirage)
 
