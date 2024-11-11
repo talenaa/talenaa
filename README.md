@@ -1,20 +1,18 @@
 **About me**
 -
 
-Hello, my name is Talena, im currently studying programming and developing.
+- Hello, my name is Talena, im currently studying programming and developing.
 
-Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when i was 11 years old. 
+- Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when i was 11 years old. 
 
-Since i was a kid i've always liked technology and cyberpunk things. I love videogames and my favorites are horizon zero dawn, resident evil, and life is strange.
+- Since i was a kid i've always liked technology and cyberpunk things. I love videogames and my favorites are horizon zero dawn, resident evil, and life is strange.
 
-Im an immigrant and i live in Spain - Andalucía.
+- Im an immigrant and i live in Spain - Andalucía.
 
-I also play drums and i love music.
-
-
-if you want to contact me, here is my gmail: talenabarbosa7@gmail.com
+- I also play drums and i love music.
 
 
+- If you want to contact me, here is my gmail: talenabarbosa7@gmail.com
 
 
 
@@ -23,7 +21,7 @@ if you want to contact me, here is my gmail: talenabarbosa7@gmail.com
 
 
 
--
+
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=020202&labelColor=FFDD00&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000&color=FF8800'/></a>
