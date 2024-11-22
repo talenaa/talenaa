@@ -1,5 +1,4 @@
-**About me**
--
+## About me
 
 - Hello, my name is Talena, im currently studying programming and developing.
 
@@ -12,22 +11,20 @@
 - I also play drums and i love music.
 
 
+
 - If you want to contact me, here is my gmail: talenabarbosa7@gmail.com
 
+## Languages and tools that i use
 
-
-
-
-
-
-
-
-
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=020202&labelColor=FFDD00&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=000000&color=FF8800'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=E7E709&labelColor=black&color=F4F003'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=E10000&labelColor=FFFFFF&color=FF0000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JSON' src='https://img.shields.io/badge/json-100000?style=for-the-badge&logo=JSON&logoColor=6F6767&labelColor=FFFFFF&color=000000'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=079FB0&color=079FB0'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5&logoColor=FF7300&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=for-the badge&logo=JavaScript&logoColor=E7E709&labelColor=black&color=F4F003'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=white&labelColor=896696&color=896696'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='json' src='https://img.shields.io/badge/json-100000?style=for-the-badge&logo=json&logoColor=FFFFFF&labelColor=A79F9F&color=A79F9F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1C662F&color=1C662F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='laravel' src='https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=660A0A&color=660A0A'/></a>
+***
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talenaa&theme=ayu_mirage)
 
