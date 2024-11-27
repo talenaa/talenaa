@@ -10,9 +10,8 @@
 
 - I also play drums and i love music.
 
-
-
 - If you want to contact me, here is my gmail: talenabarbosa7@gmail.com
+ ***
 
 ## Languages and tools that i use
 
