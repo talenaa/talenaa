@@ -1,14 +1,12 @@
 ## About me
 
-- Hello, my name is Talena, im currently studying programming and developing.
+- Hello, my name is Talena, im currently studying full stack programming and development.
 
 - Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when i was 11 years old. 
 
-- Since i was a kid i've always liked technology and cyberpunk things. I love videogames and my favorites are horizon zero dawn, resident evil, and life is strange.
+- Since i was a kid i've always liked technology and cyberpunk things, and throughout the years my interest in programming got bigger.
 
 - Im an immigrant and i live in Spain - Andalucía.
-
-- I also play drums and i love music.
 
 - If you want to contact me, here is my gmail: talenabarbosa7@gmail.com
  ***
