@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=white&labelColor=896696&color=896696)
 ![](https://img.shields.io/badge/json-100000?style=for-the-badge&logo=json&logoColor=FFFFFF&labelColor=A79F9F&color=A79F9F)
 ![](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=0049FF&color=0049FF)
+![](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=00B7FF&color=00B7FF)
 ***
 
 # Frameworks
