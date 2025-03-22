@@ -3,13 +3,13 @@
 
 ## About me
 
-- Hello, my name is Talena, im currently studying full stack programming and development.
+- Hello, my name is Talena, im currently studying full stack programming and development. In highschool I won a silver medal in a mathematics olympiad (its a cool fun fact about me, i love maths)
 
-- Im brazilian and im 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when I was 11 years old. 
+- I'm brazilian and I'm 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when I was 11 years old. 
 
 - Since I was a kid i've always liked technology and cyberpunk things, and throughout the years my interest in programming got bigger.
 
-- Im an immigrant and i live in Spain - Andalucía.
+- In my free time (when I'm not writing code), I love to play volleyball and play videogames. In Brazil I played for a professional volleybal team called SESI-SP
  ***
 
 ## Current stack
@@ -39,5 +39,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talenaa&theme=ayu_mirage&utcOffset=8)     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talenaa&theme=ayu_mirage)  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talenaa&theme=ayu_mirage) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talenaa&theme=ayu_mirage)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talenaa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&card_height=170)](https://git.io/streak-stats)
