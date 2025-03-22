@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/e985d98c-b8c8-4718-aae5-b04ce687ddd9)
+![Banner](https://github.com/user-attachments/assets/3b4c9c63-2bff-4824-b70a-b7de85a9b86d)
+
 
 
 ## About me
