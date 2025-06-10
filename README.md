@@ -4,13 +4,13 @@
 
 ## About me
 
-- Hello, my name is Talena, im currently studying full stack programming and development. In highschool I won a silver medal in a mathematics olympiad (its a cool fun fact about me, i love maths)
+- Hello, my name is Talena, I'm a full stack developer. In highschool I won a silver medal in a mathematics olympiad (its a cool fun fact about me, i love maths)
 
 - I'm brazilian and I'm 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when I was 11 years old. 
 
 - Since I was a kid i've always liked technology and cyberpunk things, and throughout the years my interest in programming got bigger.
 
-- In my free time (when I'm not writing code), I love to play volleyball and play videogames. In Brazil I played for a professional volleybal team called SESI-SP
+- In my free time (when I'm not writing code), I love to play volleyball and play videogames.
  ***
 
 ## Current stack
