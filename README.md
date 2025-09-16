@@ -4,13 +4,15 @@
 
 ## About me
 
-- Hello, my name is Talena, I'm a full stack developer. In highschool I won a silver medal in a mathematics olympiad (its a cool fun fact about me, i love maths)
+- Hello world(from a python lover), my name is Talena, I'm a full stack developer with knowledge on AWS services and Cloud Computing. I'm Always practicing, learning, studying, and always making dad jokes.
+
+- In highschool I won a silver medal in a mathematics olympiad (its a cool fun fact about me, i love maths)
 
 - I'm brazilian and I'm 18 years old. I speak 3 languages, brazilian portuguese (native language), spanish and english, and im currently learning italian. I started to learn new languages when I was 11 years old. 
 
-- Since I was a kid i've always liked technology and cyberpunk things, and throughout the years my interest in programming got bigger.
+- Since I was a kid i've always liked technology and cyberpunk things, and throughout the years my interest in programming got bigger. I lived in spain for one year and thats when I graduated at an AWS bootcamp.
 
-- In my free time (when I'm not writing code), I love to play volleyball and play videogames.
+- In my free time (when I'm not writing code), I love to play drums, drink beers, play valorant, and I'm also a huge fan of resident evil (been playing since i got my first videogame).
  ***
 
 ## Current stack
