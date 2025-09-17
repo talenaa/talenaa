@@ -23,14 +23,16 @@
 ![](https://img.shields.io/badge/json-100000?style=for-the-badge&logo=json&logoColor=FFFFFF&labelColor=A79F9F&color=A79F9F)
 ![](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=0049FF&color=0049FF)
 ![](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=white&labelColor=00B7FF&color=00B7FF)
-***
+
+# Libraries
+
+![](https://img.shields.io/badge/pandas-100000?style=for-the-badge&logo=pandas&logoColor=FFFFFF&labelColor=9A9A9A&color=9A9A9A)
 
 # Frameworks
 ![](https://img.shields.io/badge/laravel-100000?style=for-the-badge&logo=laravel&logoColor=FFFFFF&labelColor=660A0A&color=660A0A)
 
 # Database
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-***
 
 # Contact
 [![](https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF)](mailto:talenabarbosa7@gmail.com)
